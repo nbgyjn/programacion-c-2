@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535981509 source:d:\ramirez hugo\clase 4\a\edadlaboral\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pablo.h"
+
+1535981496 d:\ramirez hugo\clase 4\a\edadlaboral\pablo.h
+
+1535981527 source:d:\ramirez hugo\clase 4\a\edadlaboral\ramirez.c
+	"pablo.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536756666 source:d:\ramirez hugo\clase 7 (12-09)\arrays y parapelos\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1536756343 d:\ramirez hugo\clase 7 (12-09)\arrays y parapelos\agenda\biblioteca.h
+

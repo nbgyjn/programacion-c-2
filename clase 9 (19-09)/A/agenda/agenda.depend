@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1537366100 source:d:\ramirez hugo\clase 9 (19-09)\a\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1537365381 d:\ramirez hugo\clase 9 (19-09)\a\agenda\persona.h
+
+1537366081 source:d:\ramirez hugo\clase 9 (19-09)\a\agenda\persona.c
+	"persona.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1525929722 source:c:\users\pablo\desktop\exameningresoviejo\float\mibiblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+	"vuelo.h"
+	"controler.h"
+
+1525926485 c:\users\pablo\desktop\exameningresoviejo\float\mibiblioteca\biblioteca.h
+
+1525926608 source:c:\users\pablo\desktop\exameningresoviejo\float\mibiblioteca\bibliote.c
+	"biblioteca.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1525929723 source:c:\users\pablo\desktop\exameningresoviejo\float\mibiblioteca\vuelo.c
+	"vuelo.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1525929723 c:\users\pablo\desktop\exameningresoviejo\float\mibiblioteca\vuelo.h
+
+1525929801 c:\users\pablo\desktop\exameningresoviejo\float\mibiblioteca\controler.h
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1525938377 source:c:\users\pablo\desktop\mibiblioteca\bibliote.c
+	"biblioteca.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1525938328 c:\users\pablo\desktop\mibiblioteca\biblioteca.h
+
+1525931718 source:c:\users\pablo\desktop\mibiblioteca\controler.c
+
+1525938441 source:c:\users\pablo\desktop\mibiblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1525931781 source:c:\users\pablo\desktop\mibiblioteca\vuelo.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1537361872 source:d:\ramirez hugo\clase 9 (19-09)\material\mibiblioteca\bibliote.c
+	"biblioteca.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1537361872 d:\ramirez hugo\clase 9 (19-09)\material\mibiblioteca\biblioteca.h
+
+1537361872 source:d:\ramirez hugo\clase 9 (19-09)\material\mibiblioteca\controler.c
+
+1537361872 source:d:\ramirez hugo\clase 9 (19-09)\material\mibiblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1537361872 source:d:\ramirez hugo\clase 9 (19-09)\material\mibiblioteca\vuelo.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

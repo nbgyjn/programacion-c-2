@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1537394808 source:c:\test\repaso 2018 clase1\abmdinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537803284 source:c:\users\alumno\desktop\abmdinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1537803782 source:c:\users\alumno\desktop\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1537966920 source:d:\ramirez hugo\clase 11(26-09)\repaso\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tp.h"
+
+1537966863 d:\ramirez hugo\clase 11(26-09)\repaso\abmempleadossector\tp.h
+
+1537966920 source:d:\ramirez hugo\clase 12 (01-10)\repaso parcial\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tp.h"
+
+1538397433 d:\ramirez hugo\clase 12 (01-10)\repaso parcial\abmempleadossector\tp.h
+
+1537970456 source:d:\ramirez hugo\clase 12 (01-10)\repaso parcial\abmempleadossector\tp.c
+	"tp.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1538578245 source:d:\ramirez hugo\clase 13 (03-10)\tp\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bibioteca.h"
+
+1538578551 d:\ramirez hugo\clase 13 (03-10)\tp\tp2\bibioteca.h
+
+1538578342 source:d:\ramirez hugo\clase 13 (03-10)\tp\tp2\tp2.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"bibioteca.h"
+

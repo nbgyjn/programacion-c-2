@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1537394808 source:c:\test\repaso 2018 clase1\abmdinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537803284 source:c:\users\alumno\desktop\abmdinamico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538394799 source:c:\users\alumno\desktop\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1538407603 source:d:\cosas\nestor_a\programacion_1_laboratorio_1\guia de ejercicios\abmempleadossector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
